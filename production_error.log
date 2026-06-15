@@ -1,0 +1,3 @@
+2026-06-16 00:15:22 CRITICAL nginx: [emerg] bind() to 0.0.0.0:80 failed (98: Address already in use)
+2026-06-16 00:15:25 ERROR tomcat: Severe error occurred during initialization. java.net.BindException: Address already in use:8080
+2026-06-16 00:16:10 WARN kernel: [ 4123.123456] Out of memory: Killed process 1420 (java) total-vm:432100kB, anon-rss:123450kB
