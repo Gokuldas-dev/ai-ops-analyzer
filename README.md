@@ -22,7 +22,7 @@ This project acts as a proof-of-concept for **AIOps integration**. It programmat
 
 1. **Clone the repository:**
    bash
-   	git clone [https://github.com/YourUsername/ai-ops-analyzer.git](https://github.com/YourUsername/ai-ops-analyzer.git)
+   	git clone [https://github.com/Gokuldas-dev/ai-ops-analyzer.git](https://github.com/Gokuldas-dev/ai-ops-analyzer.git)
    	cd ai-ops-analyzer
 2. Set up the virtual environment:
   '''bash
