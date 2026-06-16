@@ -23,11 +23,14 @@ This project acts as a proof-of-concept for **AIOps integration**. It programmat
 1. **Clone the repository:**
    bash
    	git clone [https://github.com/Gokuldas-dev/ai-ops-analyzer.git](https://github.com/Gokuldas-dev/ai-ops-analyzer.git)
+	
    	cd ai-ops-analyzer
 2. Set up the virtual environment:
   '''bash
 	python3 -m venv venv
+	
 	source venv/bin/activate
+	
 	pip install google-genai
 3. Set up the virtual environment:
 	Bash
