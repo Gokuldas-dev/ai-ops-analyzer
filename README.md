@@ -29,3 +29,19 @@ This project acts as a proof-of-concept for **AIOps integration**. It programmat
 	python3 -m venv venv
 	source venv/bin/activate
 	pip install google-genai
+3. Set up the virtual environment:
+	Bash
+
+	python3 -m venv venv
+	source venv/bin/activate
+	pip install google-genai
+
+4. Export your AI API Key securely:
+	Bash
+
+	export GEMINI_API_KEY="your_actual_api_key_here"
+
+5. Execute the SRE Log Analyzer:
+	Bash
+
+	python ai_analyzer.py
